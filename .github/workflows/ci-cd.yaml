@@ -89,7 +89,7 @@ jobs:
 
       service_name: execution-service
       image_name: execution-service
-      helm_service_key: auth
+      helm_service_key: execution
 
       infra_repository: CodeReviewer-org/platform-deployment
       dev_infra_ref: main
